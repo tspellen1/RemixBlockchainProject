@@ -1,1 +1,1 @@
-# RemixBlockchainProject
+# RemixBlockchainProject - Used as an initial test to perform Ethereum transactions against the blockchain.  If you've tripped on this code and have any questions, feel free to email me at spellenconsultingllc@gmail.com.  Thanks!!
